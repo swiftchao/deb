@@ -1,0 +1,9 @@
+mkdir -p /home/chaofei/bin
+echo mkdir -p /home/chaofei/bin >>/tmp/chaofeirpm.log
+cp /usr/local/src/hellodeb-0.0.1-1/test-main /home/chaofei/bin/test-main
+chmod a+x /home/chaofei/bin/test-main
+cp /usr/local/src/hellodeb-0.0.1-1/test-main /usr/bin/test-main
+chmod a+x /usr/bin/test-main
+echo /home/chaofei/bin/test-main
+/home/chaofei/bin/test-main
+echo /home/chaofei/bin/test-main >>/tmp/chaofeirpm.log

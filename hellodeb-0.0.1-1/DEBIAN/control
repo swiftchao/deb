@@ -1,0 +1,11 @@
+Package: hellodeb
+Version: 0.0.1-1
+Architecture: all
+Maintainer: Fei Chao
+Installed-Size: 324
+Recommends:
+Suggests:
+Section: devel
+Priority: optional
+Multi-Arch: foreign
+Description: this is a hellodeb test

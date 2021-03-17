@@ -1,0 +1,3 @@
+rm -f /home/chaofei/bin/test-main
+rm -f /usr/bin/test-main
+rm -f /tmp/chaofeirpm.log
